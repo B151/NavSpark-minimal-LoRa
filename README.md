@@ -1,6 +1,7 @@
 # NavSpark-minimal-LoRa
-minimal LoRa tracker with NavSpark mini and LoRa RFM95
-upload newest NavSpark mini firmware
+minimal LoRa tracker with NavSpark mini and LoRa RFM95.
+
+Upload newest NavSpark mini firmware: 
 http://navspark.mybigcommerce.com/content/STI_02.01.05-01.07.27_NavSpark-mini_CRC_5053_115200_20150818.zip 
 
  Then edit GNSS.cpp 
